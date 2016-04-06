@@ -27,7 +27,7 @@ setup(
     keywords='django 12factor configuration',
 
     install_requires=(
-        "dj-database-url==0.4.0",
+        "dj-database-url==0.4.1",
         "dj-email-url==0.0.4",
         "django-cache-url==1.0.0",
         "six",
