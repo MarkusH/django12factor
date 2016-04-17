@@ -28,7 +28,7 @@ setup(
 
     install_requires=(
         "dj-database-url==0.4.1",
-        "dj-email-url==0.0.4",
+        "dj-email-url==0.0.5",
         "django-cache-url==1.0.0",
         "six",
     ),
